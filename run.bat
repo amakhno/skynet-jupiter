@@ -1,0 +1,1 @@
+docker run -v C:\Projects\skynet-jupiter\pardiso-lic:/home/noir/pardiso-lic/ -v C:\Projects\Thesis:/home/noir/notebook -v C:\Projects\skynet-jupiter\configuration:/home/noir/.jupyter -p 8888:8888 trane9507/skynet-jupiter

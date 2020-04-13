@@ -1,0 +1,2 @@
+Sample run
+docker run -v D:\vscode-remote-try-python\pardiso-lic:/home/noir/pardiso-lic/ -v D:\Test:/home/noir/notebook -v D:\vscode-remote-try-python\configuration:/home/noir/.jupyter -p 8888:8888 skynet-jupiter
